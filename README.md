@@ -1,4 +1,4 @@
-<header align=center>(https://capsule-render.vercel.app/api?type=wave&color=auot&height=300&section=header&text=Hello👋&fontSize=90&theme=radical)</header>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auot&height=300&section=header&text=Hello👋&fontSize=90&theme=radical)
 
 
 <div align=center>
@@ -10,6 +10,8 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=yellow">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </p>
 <br>
 
