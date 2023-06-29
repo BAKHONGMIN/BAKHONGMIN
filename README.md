@@ -36,11 +36,9 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 <br><br>
-
-
 </p>
-<div>
-   <span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAKHONGMIN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</span>
-   <span>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAKHONGMIN&show_icons=true&theme=radical)</span>
-</div>
+<p>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAKHONGMIN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAKHONGMIN&show_icons=true&theme=radical)
+</p>
 </div>
