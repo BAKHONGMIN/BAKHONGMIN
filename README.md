@@ -37,9 +37,10 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAKHONGMIN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAKHONGMIN&show_icons=true&theme=radical)
-
+<div>
+   <span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAKHONGMIN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</span>
+   <span>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAKHONGMIN&show_icons=true&theme=radical)</span>
+</div>
 </div>
